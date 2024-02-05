@@ -1,16 +1,9 @@
-# expense_tracker
+# Expense tracker
 
-A new Flutter project.
+This application is to track your expenses.
 
-## Getting Started
+The user can view all their expenses on the home page and a graph is displayed to show the expenses per category (Food, Work, Leisure and Travel). The user can also create new expenses by filling in the title, amount, date and category. The overview on the homepage is then automatically updated.
 
-This project is a starting point for a Flutter application.
+During this project I worked with many new widgets and features. 
+For example: handling user input with TextField and DropdownButton, show a text to alert the user by using showDialog() funtion, use a ListView to show all the expenses, set light and dark mode settings.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
